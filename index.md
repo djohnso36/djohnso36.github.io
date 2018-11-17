@@ -3,10 +3,11 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I'm a work in progress. I work at [Oregon Health & Science University](https://www.ohsu.edu/xd/) and am an online student at [Arizona State University](https://asuonline.asu.edu/).
 
 ## Current Interests and Projects:
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+- Data
+- [GitHub Pages](http://djohnso36.github.io)
+- Graphic Design
+- Event Map
