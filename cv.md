@@ -1,6 +1,7 @@
 ---
 layout: resume
 ---
+![Octocat](https://octodex.github.com/images/steroidtocat.png)
 ## Currently
 
 Current Position Description
