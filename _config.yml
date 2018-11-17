@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Academic Website of Dylan Johnson
+title: Github Page of Dylan Johnson
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Dylan Johnson
   avatar: penguins.jpg
-  bio: "This is Dylan's sample Jekyll academic website."
+  bio: "This is Dylan's sample Jekyll website."
   email: johnsody@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: djohnso36
