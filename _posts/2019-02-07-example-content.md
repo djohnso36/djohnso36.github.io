@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example content
-excerpt: "What is a static website generator, and why should I care?"
+title: Default content
+excerpt: "Someone else created this post - I'm going to delete it."
 modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
