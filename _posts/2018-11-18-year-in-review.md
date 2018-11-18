@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Default content
+title: 2018 in review - a start
 excerpt: "2018 has been a lot."
 modified: 2/29/2016, 9:00:24
 tags: [2018]
